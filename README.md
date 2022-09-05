@@ -1,2 +1,2 @@
 # Systeme-de-recommandation-ML
-Création d'un algorithme de système de recommandation utilisant la méthode SVD (Singular value decomposition).
+Creation of a recommendation system algorithm using the SVD (Singular value decomposition) method.
